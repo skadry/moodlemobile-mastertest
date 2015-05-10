@@ -5,7 +5,7 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "388"
         version   = "1.14">
-    <name>Moodle Mobile</name>
+    <name>AUM Moodle Mobile</name>
 
     <description>
         AUM Moodle Mobile official app
